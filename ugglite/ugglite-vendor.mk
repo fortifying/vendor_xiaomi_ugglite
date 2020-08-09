@@ -774,6 +774,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ugglite/proprietary/vendor/lib/libchromatix_ov13855_f13855bd_qtech_d6s_india_cpp_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov13855_f13855bd_qtech_d6s_india_cpp_video.so \
     vendor/xiaomi/ugglite/proprietary/vendor/lib/libchromatix_ov13855_f13855bd_qtech_d6s_india_cpp_weixin.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov13855_f13855bd_qtech_d6s_india_cpp_weixin.so \
     vendor/xiaomi/ugglite/proprietary/vendor/lib/libchromatix_ov13855_f13855bd_qtech_d6s_india_default_preview_dw9714.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov13855_f13855bd_qtech_d6s_india_default_preview_dw9714.so \
+    vendor/xiaomi/ugglite/proprietary/vendor/lib/vndk-sp/libcutils.so:$(TARGET_COPY_OUT_VENDOR)/lib/vndk-sp/libcutils.so \
+    vendor/xiaomi/ugglite/proprietary/vendor/lib/vndk/libprocessgroup.so:$(TARGET_COPY_OUT_VENDOR)/lib/vndk/libprocessgroup.so \
     vendor/xiaomi/ugglite/proprietary/vendor/lib/libchromatix_ov13855_f13855bd_qtech_d6s_india_default_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov13855_f13855bd_qtech_d6s_india_default_video.so \
     vendor/xiaomi/ugglite/proprietary/vendor/lib/libchromatix_ov13855_f13855bd_qtech_d6s_india_default_video_dw9714.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov13855_f13855bd_qtech_d6s_india_default_video_dw9714.so \
     vendor/xiaomi/ugglite/proprietary/vendor/lib/libchromatix_ov13855_f13855bd_qtech_d6s_india_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov13855_f13855bd_qtech_d6s_india_hfr_120.so \
